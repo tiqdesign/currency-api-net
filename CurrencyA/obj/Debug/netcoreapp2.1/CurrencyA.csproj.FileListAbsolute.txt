@@ -1,0 +1,14 @@
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\bin\Debug\netcoreapp2.1\CurrencyA.deps.json
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\bin\Debug\netcoreapp2.1\CurrencyA.runtimeconfig.json
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\bin\Debug\netcoreapp2.1\CurrencyA.runtimeconfig.dev.json
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\bin\Debug\netcoreapp2.1\CurrencyA.dll
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\bin\Debug\netcoreapp2.1\CurrencyA.pdb
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.csprojAssemblyReference.cache
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.csproj.CoreCompileInputs.cache
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.RazorAssemblyInfo.cache
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.RazorAssemblyInfo.cs
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.AssemblyInfoInputs.cache
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.AssemblyInfo.cs
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.RazorTargetAssemblyInfo.cache
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.dll
+C:\Users\tiqdesign\source\repos\CurrencyA\CurrencyA\obj\Debug\netcoreapp2.1\CurrencyA.pdb
